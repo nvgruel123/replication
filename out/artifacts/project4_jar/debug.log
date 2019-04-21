@@ -1,0 +1,5 @@
+2018-04-18 17:16:55 [main] INFO  UserServiceDriver:60 - user server start running on port 2424.. primary @ http://192.168.1.12:2424
+2018-04-18 17:16:55 [main] INFO  UserServiceDriver:64 - primary: true
+2018-04-18 17:16:55 [Thread-8] INFO  HeartBeatHandler:30 - start heart beat
+2018-04-18 17:17:12 [qtp1921595561-12] INFO  UserServiceDatabase:369 - server http://192.168.1.12:2425 has been added
+2018-04-18 17:18:02 [qtp1921595561-11] INFO  UserServiceDatabase:369 - server http://192.168.1.12:2426 has been added
